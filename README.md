@@ -1,2 +1,3 @@
 # wacky-stock-tracker
-Tracking stocks
+
+Building a dashboard for tracking stocks. Details to be decided.
